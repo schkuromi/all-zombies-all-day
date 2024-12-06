@@ -1,0 +1,41 @@
+{
+	"enabled": true,
+	"debug": false,
+
+	"time": {
+		"startDay": 1,
+		"startMonth": 1,
+		"endDay": 32,
+		"endMonth": 12
+	},
+
+	"replaceBotHostility": true, 
+	
+	"maps": {
+		"comment": "Percentage of Scavs that are changed to Zombies. Set number between 0 and 100, you can go above 100 but I don't what the consequences are.",
+		"Labs": 100,
+		"Customs": 100,
+		"Factory": 100,
+		"Interchange": 100,
+		"Lighthouse": 100,
+		"Reserve": 100,
+		"GroundZero": 100,
+		"Shoreline": 100,
+		"StreetsOfTarkov": 100,
+		"Woods": 100
+	},
+
+	"disablebosses": {
+		"comment": "When set to true, disables PMCs and Bosses from spawning. DOES NOT AFFECT SCAVS",
+		"Labs": true,
+		"Customs": false,
+		"Factory": false,
+		"Interchange": false,
+		"Lighthouse": false,
+		"Reserve": false,
+		"GroundZero": false,
+		"Shoreline": false,
+		"StreetsOfTarkov": false,
+		"Woods": false
+	}
+}
