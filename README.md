@@ -1,6 +1,8 @@
 # All Zombies All Day
 ## SPT 3.10+ ONLY
 
+# This project is archived, please comment on the SPT Hub modpage or ping me in the SPT Hub Discord in #mods-development (no DMs) if you wish to take over maintenance of this mod.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 | [Features](#features) | [Config Options](#config-options) | [Mod Compatibility](#mod-compatibility) |
